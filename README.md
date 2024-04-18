@@ -1,2 +1,2 @@
 # Portifolio-SPI
- Portifólio desenvolvido no curso de Sistemas Para internet - UERN
+ Portifólio originalmente desenvolvido no primeiro período do curso de Sistemas Para internet - UERN
